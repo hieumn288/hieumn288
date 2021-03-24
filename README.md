@@ -5,11 +5,13 @@
 - DOB: August 28th, 2001
 - Sex: Male
 
+---
+
 ### Education:
 - University: Drexel University
 - Class Standing: Sophomore
 - Major: Computer Science
-- GPA: 3.89
+- Cumulative GPA: 3.89
 
 ---
 
