@@ -1,9 +1,15 @@
 ### Hi there, I'm Hieu Nguyen 👋
 
-## Education:
+### Bio:
+- Full Name: Hieu Minh Nguyen
+- DOB: August 28th, 2001
+- Sex: Male
+
+### Education:
 - University: Drexel University
 - Class Standing: Sophomore
 - Major: Computer Science
+- GPA: 3.89
 
 ---
 
